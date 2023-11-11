@@ -1,16 +1,16 @@
-# al_hadith
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Al Hadith
+<br/>
+Al Hadith App is a powerful mobile application designed to provide a seamless and enriching experience for exploring Hadith literature. Built using Flutter, the app utilizes the GetX package for state management, Drift database for efficient data storage, and features a preloaded database for quick access to a vast repository of Hadiths.
+<br>
+<br>
+#Screenshots:
+<br>
+<br>
+<table>
+  <tr>
+    <td><img src="/assets/ss/1.jpg" width=270 ></td>
+    <td><img src="/assets/ss/2.jpg" width=270 ></td>
+    <td><img src="/assets/ss/3.jpg" width=270 ></td>
+    <td><img src="/assets/ss/4.jpg" width=270 ></td>
+  </tr>
+ </table>
